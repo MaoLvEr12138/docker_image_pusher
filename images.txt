@@ -1,4 +1,3 @@
-nginx
 #支持私库
 ghcr.io/nrfconnect/sdk-nrf-toolchain:4894884e96
 xhofe/alist:latest
