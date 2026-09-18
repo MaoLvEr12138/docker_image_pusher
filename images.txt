@@ -1,2 +1,2 @@
 #支持私库
-ghcr.io/nrfconnect/sdk-nrf-toolchain:v3.2.0
+ghcr.io/nrfconnect/sdk-nrf-toolchain:43683a87ea
